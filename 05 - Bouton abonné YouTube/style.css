@@ -1,0 +1,42 @@
+body {
+    background-color: #1E2337;
+}
+
+h1 {
+    text-align : center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.bloc-btn {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.video {
+    margin: 0 auto;
+    padding: 2rem;
+    display: block;
+}
+
+.btn {
+    padding: 1rem;
+    background-color: #b5b5b5;
+    border : none;
+    color: #1E2337;
+}
+
+i {
+    color: rgb(255, 255, 255);
+    font-size: xxx-large;
+}
+
+.happy {
+    color: rgb(255, 204, 0);
+}
+
+.abonne {
+    background-color: rgb(255, 204, 0);
+    color: white;
+}
